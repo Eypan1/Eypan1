@@ -10,7 +10,7 @@
 </div>
 <h4>
   
-🤓 I have an interest in Software Development, Engineering, AI and ML
+🤓 I have an interest in Software Development, Software Engineering, AI and ML
 
 🔭 I love learning about new technologies
 
